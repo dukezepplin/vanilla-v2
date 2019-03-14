@@ -1,1 +1,1 @@
-# vanilla-v2
+# vanilla
